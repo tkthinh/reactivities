@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\.NET\\Reactivities\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1C0D3D-672A-42AD-A138-DB8C0E34ED84}|Api\\Api.csproj|d:\\workspace\\.net\\reactivities\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1C0D3D-672A-42AD-A138-DB8C0E34ED84}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1C0D3D-672A-42AD-A138-DB8C0E34ED84}|Api\\Api.csproj|d:\\workspace\\.net\\reactivities\\api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1C0D3D-672A-42AD-A138-DB8C0E34ED84}|Api\\Api.csproj|solutionrelative:api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B6A02A-E61B-4C59-9576-29F0D3BF849A}|Persistence\\Persistence.csproj|d:\\workspace\\.net\\reactivities\\persistence\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B6A02A-E61B-4C59-9576-29F0D3BF849A}|Persistence\\Persistence.csproj|solutionrelative:persistence\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848D628E-4EB3-4A8B-87B7-06F6F4EB5BD9}|Domain\\Domain.csproj|d:\\workspace\\.net\\reactivities\\domain\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848D628E-4EB3-4A8B-87B7-06F6F4EB5BD9}|Domain\\Domain.csproj|solutionrelative:domain\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1C0D3D-672A-42AD-A138-DB8C0E34ED84}|Api\\Api.csproj|d:\\workspace\\.net\\reactivities\\api\\controllers\\activitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1C0D3D-672A-42AD-A138-DB8C0E34ED84}|Api\\Api.csproj|solutionrelative:api\\controllers\\activitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "D:\\Workspace\\.NET\\Reactivities\\Persistence\\Seed.cs",
+              "RelativeDocumentMoniker": "Persistence\\Seed.cs",
+              "ToolTip": "D:\\Workspace\\.NET\\Reactivities\\Persistence\\Seed.cs",
+              "RelativeToolTip": "Persistence\\Seed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T04:31:19.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\Workspace\\.NET\\Reactivities\\Api\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\BaseController.cs",
+              "ToolTip": "D:\\Workspace\\.NET\\Reactivities\\Api\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Api\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T04:29:47.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ActivityController.cs",
+              "DocumentMoniker": "D:\\Workspace\\.NET\\Reactivities\\Api\\Controllers\\ActivityController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\ActivityController.cs",
+              "ToolTip": "D:\\Workspace\\.NET\\Reactivities\\Api\\Controllers\\ActivityController.cs",
+              "RelativeToolTip": "Api\\Controllers\\ActivityController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T04:29:14.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\.NET\\Reactivities\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "D:\\Workspace\\.NET\\Reactivities\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T06:16:17.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "D:\\Workspace\\.NET\\Reactivities\\Domain\\Activity.cs",
+              "RelativeDocumentMoniker": "Domain\\Activity.cs",
+              "ToolTip": "D:\\Workspace\\.NET\\Reactivities\\Domain\\Activity.cs",
+              "RelativeToolTip": "Domain\\Activity.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T06:03:53.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
